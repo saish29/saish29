@@ -1,6 +1,12 @@
 ### Hi there 👋
 
 
+# Saish Mandavkar
+
+## Data Science | Business Intelligence | Sports Analytics | Financial Analytics
+
+Welcome to my GitHub profile! I'm Saish Mandavkar, a highly motivated data scientist and software engineer with a strong background in data science, machine learning, and programming. I'm passionate about leveraging data-driven insights to solve complex problems and drive meaningful impact.
+
 
 **Languages and Tools:** 
 
@@ -29,8 +35,8 @@
 
 <p align="center">
   
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=saish29&count_private=true&show_icons=true" width="58%" alt="GitHub Stats">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=saish29&hide=TeX&layout=compact" width="58%" alt="Saish's Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api?username=saish29&show_icons=true&theme=tokyonight&count_private=true" width="58%" alt="GitHub Stats">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=saish29&hide=TeX&layout=compact&theme=tokyonight" width="58%" alt="Saish's Top Languages">
 </p>
 
 <p align="center">
